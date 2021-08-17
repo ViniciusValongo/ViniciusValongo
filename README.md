@@ -1,4 +1,4 @@
-## Sou Vinicius Valongo </h1>
+## Vinicius Valongo </h1>
 <div>
   <a href="https://github.com/ViniciusValongo">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusValongo&show_icons=true&theme=&include_all_commits=true&count_private=true"/>

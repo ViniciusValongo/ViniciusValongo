@@ -11,6 +11,7 @@
   <img align="center" alt="Valongo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Valongo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Valongo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Valongo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c#/c#-original.svg">
    <!--<img align="center" width="158" height="140" src="https://media1.giphy.com/media/MfGOjkEtoyMgFcxCSz/giphy.gif?cid=ecf05e47mk1l97tz59vyol928drr1x8j5zjgnncwrz5ze9mr&rid=giphy.gif&ct=g">-->
 </div>
  <br>
